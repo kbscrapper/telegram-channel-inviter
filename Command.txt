@@ -1,0 +1,20 @@
+######################Install Python####################
+
+https://www.python.org/downloads/
+
+
+#####################Install vs_BuildTools############
+
+Run these command in cmd
+
+pip install telethon
+pip install requests
+pip install -U pyrogram
+pip install -U pyrogram tgcrypto
+
+
+######################################################
+
+
+
+
