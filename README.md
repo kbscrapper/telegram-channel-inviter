@@ -8,7 +8,9 @@ https://www.python.org/downloads/
 
 #####################Install vs_BuildTools############
 
-Run these command in cmd
+Download here : https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=3652&passive=false
+
+Run these commands in cmd
 
 pip install telethon
 pip install requests
